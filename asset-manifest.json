@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/AtomizeReactApp/static/css/main.537f7e6a.css",
+    "main.js": "/AtomizeReactApp/static/js/main.aa96abdf.js",
+    "static/media/scenary-pic.png": "/AtomizeReactApp/static/media/scenary-pic.6fcca38b3f73960c4f27.png",
+    "static/media/eye.png": "/AtomizeReactApp/static/media/eye.422d367215e810ffdd03.png",
+    "static/media/girl-image2.png": "/AtomizeReactApp/static/media/girl-image2.2d00b80e0d7a847180eb.png",
+    "static/media/heart.png": "/AtomizeReactApp/static/media/heart.59848f4811a23aa759c3.png",
+    "static/media/play-button.png": "/AtomizeReactApp/static/media/play-button.1356601fff5921c0bf1c.png",
+    "static/media/icon.svg": "/AtomizeReactApp/static/media/icon.eea0c86d2d3cbd1e28c2691450462546.svg",
+    "static/media/s4-reactIcon.svg": "/AtomizeReactApp/static/media/s4-reactIcon.58853a8d576ad39ff1a7f6a15734a052.svg",
+    "static/media/s4-i5.svg": "/AtomizeReactApp/static/media/s4-i5.993df962a7907d86309e97323a320515.svg",
+    "static/media/s4-i4.svg": "/AtomizeReactApp/static/media/s4-i4.7f969707135724a47be96486502feca1.svg",
+    "static/media/s4-i1.svg": "/AtomizeReactApp/static/media/s4-i1.1b32b3979916d3a8a0be721af92fa997.svg",
+    "index.html": "/AtomizeReactApp/index.html",
+    "static/media/s4-i6.svg": "/AtomizeReactApp/static/media/s4-i6.33418506611e9e7ed6ee21b536e7f46c.svg",
+    "static/media/s4-i2.svg": "/AtomizeReactApp/static/media/s4-i2.58c27896389b544bdc2e7dd07034089a.svg",
+    "static/media/s4-i3.svg": "/AtomizeReactApp/static/media/s4-i3.92e7c5b19e387e5502ebc1af577b2ac3.svg",
+    "static/media/s3-c2.svg": "/AtomizeReactApp/static/media/s3-c2.490fee77fbef6f2d0456055bb0c2db9b.svg",
+    "static/media/s3-c3.svg": "/AtomizeReactApp/static/media/s3-c3.e6b58918ad7a0d16cc008ea2a723ac63.svg",
+    "static/media/s3-c4.svg": "/AtomizeReactApp/static/media/s3-c4.9b5c706edd1194177f7f34d70a24bb3a.svg",
+    "static/media/s3-c1.svg": "/AtomizeReactApp/static/media/s3-c1.426a92c9d8e9eec41eb00af187c0f726.svg",
+    "main.537f7e6a.css.map": "/AtomizeReactApp/static/css/main.537f7e6a.css.map",
+    "main.aa96abdf.js.map": "/AtomizeReactApp/static/js/main.aa96abdf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.537f7e6a.css",
+    "static/js/main.aa96abdf.js"
+  ]
+}
